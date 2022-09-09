@@ -6,8 +6,9 @@ Telegram: @Basilt69
 
 About me:
 
-I'm currently pursuing bachelor's degree at Baum Moscow State Technical University
-I am open to getting involved in new interesting projects
+* I'm currently pursuing bachelor's degree at Baum Moscow State Technical University
+
+* I am open to getting involved in new interesting projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basilt69&layout=compact)
 
