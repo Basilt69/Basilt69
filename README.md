@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome ✨ 
+
+I'm Basil👋
+
+Telegram: @Basilt69
+
+About me:
+
+* I'm currently persuing bachelor's degree at Baum Moscow State Technical University
+* I am open to getting involved in new interesting prejects
 
 <!--
 **Basilt69/Basilt69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
