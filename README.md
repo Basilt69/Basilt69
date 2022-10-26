@@ -6,7 +6,7 @@ Telegram: @Basilt69
 
 About me:
 
-* I'm currently pursuing bachelor's degree at Baum Moscow State Technical University
+* I'm currently pursuing bachelor's degree at Bauman Moscow State Technical University
 
 * I am open to getting involved in new interesting projects
 
