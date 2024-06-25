@@ -6,7 +6,7 @@ Telegram: @Basilt69
 
 About me:
 
-* I'm currently pursuing bachelor's degree at Bauman Moscow State Technical University
+* I'm a graduate of Computer Science at Bauman Moscow State Technical University graduate 
 
 * I am open to getting involved in new interesting projects
 
