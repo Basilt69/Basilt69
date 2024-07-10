@@ -6,7 +6,7 @@ Telegram: @Basilt69
 
 About me:
 
-* I'm a graduate of Computer Science at Bauman Moscow State Technical University graduate 
+* I'm a graduate of Computer Science at Bauman Moscow State Technical University 
 
 * I am open to getting involved in new interesting projects
 
